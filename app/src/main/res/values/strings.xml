@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Roosh</string>
+    <string name="schedule">Schedule</string>
+    <string name="schedule_appointment">Schedule Appointment</string>
+    <string name="time">Time</string>
+    <string name="choose_date">Choose date</string>
+    <string name="choose_time">Choose time</string>
+    <string name="schedule_meeting">Schedule Meeting</string>
+</resources>
